@@ -1,0 +1,459 @@
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/appsettings.Development.json
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/appsettings.json
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/referenciaPARTE1
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/referenciaPARTE1.deps.json
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/referenciaPARTE1.runtimeconfig.json
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/referenciaPARTE1.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/referenciaPARTE1.pdb
+/Users/tiagopedra/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tiagopedra/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.AssemblyInfoInputs.cache
+/Users/tiagopedra/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.AssemblyInfo.cs
+/Users/tiagopedra/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.csproj.CoreCompileInputs.cache
+/Users/tiagopedra/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.MvcApplicationPartsAssemblyInfo.cache
+/Users/tiagopedra/referenciaPARTE1/obj/Debug/net8.0/staticwebassets.build.json
+/Users/tiagopedra/referenciaPARTE1/obj/Debug/net8.0/staticwebassets.development.json
+/Users/tiagopedra/referenciaPARTE1/obj/Debug/net8.0/staticwebassets/msbuild.referenciaPARTE1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/tiagopedra/referenciaPARTE1/obj/Debug/net8.0/staticwebassets/msbuild.build.referenciaPARTE1.props
+/Users/tiagopedra/referenciaPARTE1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.referenciaPARTE1.props
+/Users/tiagopedra/referenciaPARTE1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.referenciaPARTE1.props
+/Users/tiagopedra/referenciaPARTE1/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/tiagopedra/referenciaPARTE1/obj/Debug/net8.0/scopedcss/bundle/referenciaPARTE1.styles.css
+/Users/tiagopedra/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.dll
+/Users/tiagopedra/referenciaPARTE1/obj/Debug/net8.0/refint/referenciaPARTE1.dll
+/Users/tiagopedra/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.pdb
+/Users/tiagopedra/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.genruntimeconfig.cache
+/Users/tiagopedra/referenciaPARTE1/obj/Debug/net8.0/ref/referenciaPARTE1.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Humanizer.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/System.CodeDom.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/System.Text.Json.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/tiagopedra/referenciaPARTE1/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/tiagopedra/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.csproj.AssemblyReference.cache
+/Users/tiagopedra/referenciaPARTE1/obj/Debug/net8.0/referenc.9BD5A78C.Up2Date
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/appsettings.Development.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/appsettings.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/referenciaPARTE1
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/referenciaPARTE1.deps.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/referenciaPARTE1.runtimeconfig.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/referenciaPARTE1.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/referenciaPARTE1.pdb
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Humanizer.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/System.CodeDom.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/System.Text.Json.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.csproj.AssemblyReference.cache
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.AssemblyInfoInputs.cache
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.AssemblyInfo.cs
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.csproj.CoreCompileInputs.cache
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.MvcApplicationPartsAssemblyInfo.cache
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/staticwebassets.build.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/staticwebassets.development.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/staticwebassets/msbuild.referenciaPARTE1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/staticwebassets/msbuild.build.referenciaPARTE1.props
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.referenciaPARTE1.props
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.referenciaPARTE1.props
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/scopedcss/bundle/referenciaPARTE1.styles.css
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/referenc.9BD5A78C.Up2Date
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/refint/referenciaPARTE1.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.pdb
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.genruntimeconfig.cache
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/ref/referenciaPARTE1.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/appsettings.Development.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/appsettings.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/referenciaPARTE1
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/referenciaPARTE1.deps.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/referenciaPARTE1.runtimeconfig.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/referenciaPARTE1.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/referenciaPARTE1.pdb
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Humanizer.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/System.CodeDom.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/System.Text.Json.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.csproj.AssemblyReference.cache
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.AssemblyInfoInputs.cache
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.AssemblyInfo.cs
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.csproj.CoreCompileInputs.cache
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.MvcApplicationPartsAssemblyInfo.cache
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/staticwebassets.build.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/staticwebassets.development.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/staticwebassets/msbuild.referenciaPARTE1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/staticwebassets/msbuild.build.referenciaPARTE1.props
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.referenciaPARTE1.props
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.referenciaPARTE1.props
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/scopedcss/bundle/referenciaPARTE1.styles.css
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/referenc.9BD5A78C.Up2Date
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/refint/referenciaPARTE1.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.pdb
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/referenciaPARTE1.genruntimeconfig.cache
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/1 - Para Finalização da matéria/PROJETO REFERENCIAS - AULAS 2 A 5/referenciaPARTE1/obj/Debug/net8.0/ref/referenciaPARTE1.dll
