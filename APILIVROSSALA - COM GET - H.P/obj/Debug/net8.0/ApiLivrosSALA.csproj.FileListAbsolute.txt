@@ -1,0 +1,75 @@
+/Users/tiagopedra/ApiLivrosSALA/bin/Debug/net8.0/appsettings.Development.json
+/Users/tiagopedra/ApiLivrosSALA/bin/Debug/net8.0/appsettings.json
+/Users/tiagopedra/ApiLivrosSALA/bin/Debug/net8.0/ApiLivrosSALA
+/Users/tiagopedra/ApiLivrosSALA/bin/Debug/net8.0/ApiLivrosSALA.deps.json
+/Users/tiagopedra/ApiLivrosSALA/bin/Debug/net8.0/ApiLivrosSALA.runtimeconfig.json
+/Users/tiagopedra/ApiLivrosSALA/bin/Debug/net8.0/ApiLivrosSALA.dll
+/Users/tiagopedra/ApiLivrosSALA/bin/Debug/net8.0/ApiLivrosSALA.pdb
+/Users/tiagopedra/ApiLivrosSALA/obj/Debug/net8.0/ApiLivrosSALA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tiagopedra/ApiLivrosSALA/obj/Debug/net8.0/ApiLivrosSALA.AssemblyInfoInputs.cache
+/Users/tiagopedra/ApiLivrosSALA/obj/Debug/net8.0/ApiLivrosSALA.AssemblyInfo.cs
+/Users/tiagopedra/ApiLivrosSALA/obj/Debug/net8.0/ApiLivrosSALA.csproj.CoreCompileInputs.cache
+/Users/tiagopedra/ApiLivrosSALA/obj/Debug/net8.0/ApiLivrosSALA.MvcApplicationPartsAssemblyInfo.cache
+/Users/tiagopedra/ApiLivrosSALA/obj/Debug/net8.0/staticwebassets.build.json
+/Users/tiagopedra/ApiLivrosSALA/obj/Debug/net8.0/staticwebassets.development.json
+/Users/tiagopedra/ApiLivrosSALA/obj/Debug/net8.0/staticwebassets/msbuild.ApiLivrosSALA.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/tiagopedra/ApiLivrosSALA/obj/Debug/net8.0/staticwebassets/msbuild.build.ApiLivrosSALA.props
+/Users/tiagopedra/ApiLivrosSALA/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ApiLivrosSALA.props
+/Users/tiagopedra/ApiLivrosSALA/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ApiLivrosSALA.props
+/Users/tiagopedra/ApiLivrosSALA/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/tiagopedra/ApiLivrosSALA/obj/Debug/net8.0/scopedcss/bundle/ApiLivrosSALA.styles.css
+/Users/tiagopedra/ApiLivrosSALA/obj/Debug/net8.0/ApiLivrosSALA.dll
+/Users/tiagopedra/ApiLivrosSALA/obj/Debug/net8.0/refint/ApiLivrosSALA.dll
+/Users/tiagopedra/ApiLivrosSALA/obj/Debug/net8.0/ApiLivrosSALA.pdb
+/Users/tiagopedra/ApiLivrosSALA/obj/Debug/net8.0/ApiLivrosSALA.genruntimeconfig.cache
+/Users/tiagopedra/ApiLivrosSALA/obj/Debug/net8.0/ref/ApiLivrosSALA.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/bin/Debug/net8.0/appsettings.Development.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/bin/Debug/net8.0/appsettings.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/bin/Debug/net8.0/ApiLivrosSALA
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/bin/Debug/net8.0/ApiLivrosSALA.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/bin/Debug/net8.0/ApiLivrosSALA.pdb
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/obj/Debug/net8.0/ApiLivrosSALA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/obj/Debug/net8.0/ApiLivrosSALA.AssemblyInfoInputs.cache
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/obj/Debug/net8.0/ApiLivrosSALA.AssemblyInfo.cs
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/obj/Debug/net8.0/ApiLivrosSALA.csproj.CoreCompileInputs.cache
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/obj/Debug/net8.0/ApiLivrosSALA.MvcApplicationPartsAssemblyInfo.cache
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/obj/Debug/net8.0/staticwebassets.build.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/obj/Debug/net8.0/staticwebassets.development.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/obj/Debug/net8.0/staticwebassets/msbuild.ApiLivrosSALA.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/obj/Debug/net8.0/staticwebassets/msbuild.build.ApiLivrosSALA.props
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ApiLivrosSALA.props
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ApiLivrosSALA.props
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/obj/Debug/net8.0/scopedcss/bundle/ApiLivrosSALA.styles.css
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/obj/Debug/net8.0/ApiLivrosSALA.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/obj/Debug/net8.0/refint/ApiLivrosSALA.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/obj/Debug/net8.0/ApiLivrosSALA.pdb
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/bin/Debug/net8.0/ApiLivrosSALA.deps.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/bin/Debug/net8.0/ApiLivrosSALA.runtimeconfig.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/obj/Debug/net8.0/ApiLivrosSALA.genruntimeconfig.cache
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA/obj/Debug/net8.0/ref/ApiLivrosSALA.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /bin/Debug/net8.0/appsettings.Development.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /bin/Debug/net8.0/appsettings.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /bin/Debug/net8.0/ApiLivrosSALA
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /bin/Debug/net8.0/ApiLivrosSALA.deps.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /bin/Debug/net8.0/ApiLivrosSALA.runtimeconfig.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /bin/Debug/net8.0/ApiLivrosSALA.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /bin/Debug/net8.0/ApiLivrosSALA.pdb
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /obj/Debug/net8.0/ApiLivrosSALA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /obj/Debug/net8.0/ApiLivrosSALA.AssemblyInfoInputs.cache
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /obj/Debug/net8.0/ApiLivrosSALA.AssemblyInfo.cs
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /obj/Debug/net8.0/ApiLivrosSALA.csproj.CoreCompileInputs.cache
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /obj/Debug/net8.0/ApiLivrosSALA.MvcApplicationPartsAssemblyInfo.cache
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /obj/Debug/net8.0/staticwebassets.build.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /obj/Debug/net8.0/staticwebassets.development.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /obj/Debug/net8.0/staticwebassets/msbuild.ApiLivrosSALA.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /obj/Debug/net8.0/staticwebassets/msbuild.build.ApiLivrosSALA.props
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ApiLivrosSALA.props
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ApiLivrosSALA.props
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /obj/Debug/net8.0/staticwebassets.pack.json
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /obj/Debug/net8.0/scopedcss/bundle/ApiLivrosSALA.styles.css
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /obj/Debug/net8.0/ApiLivrosSALA.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /obj/Debug/net8.0/refint/ApiLivrosSALA.dll
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /obj/Debug/net8.0/ApiLivrosSALA.pdb
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /obj/Debug/net8.0/ApiLivrosSALA.genruntimeconfig.cache
+/Users/tiagopedra/Documents/DOCÊNCIA/2 - POSITIVO /TÓPICOS ESPECIAIS 1/Para Finalização da matéria/ApiLivrosSALA - com GET /obj/Debug/net8.0/ref/ApiLivrosSALA.dll

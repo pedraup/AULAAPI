@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiLivrosSALA", "ApiLivrosSALA.csproj", "{95E45165-3CC8-CE3D-8E22-724D2313BFED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95E45165-3CC8-CE3D-8E22-724D2313BFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E45165-3CC8-CE3D-8E22-724D2313BFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E45165-3CC8-CE3D-8E22-724D2313BFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E45165-3CC8-CE3D-8E22-724D2313BFED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {989A3699-2190-4260-B2D2-867601B3AF23}
+	EndGlobalSection
+EndGlobal
